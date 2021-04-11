@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="HDC">
+	<name>Hightower Defense Consultancy</name>
+	<email>N/A</email>
+	<web>N/A</web>
+	<picture>HDCTzeentch2.paa</picture>
+	<title>HDC</title>
+	<member id="76561198004195296" nick="Lordtater">
+		<name>N/A</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Meow</remark>
+	</member>
+	<member id="76561197998050731" nick="MajorMatt">
+		<name>N/A</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>The Eye Sees All</remark>
+	</member>
+</squad>
